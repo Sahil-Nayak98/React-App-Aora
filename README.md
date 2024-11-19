@@ -47,5 +47,3 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 ### Create
 ![CREATE](https://github.com/user-attachments/assets/71e33255-43bf-4892-8fa3-129c3674b167)
 
-### Profile
-![PROFILE](https://github.com/user-attachments/assets/90364ba8-51ba-49f5-a4b2-538edac290d1)
